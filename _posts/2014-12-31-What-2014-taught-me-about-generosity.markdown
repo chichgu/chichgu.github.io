@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What 2014 taught me about generosity
+tags: give-and-take let-go relationship memories peace
 ---
 <img src="/images/fulls/goodbye-2014.jpg" class="fit image" title='Goodbye 2014'>
 *“What we hear is the quality of our listening.”*

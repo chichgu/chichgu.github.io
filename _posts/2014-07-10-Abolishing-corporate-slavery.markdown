@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Abolishing corporate slavery
+tags: agile teal work purpose
 ---
 <img src="/images/fulls/chain.jpg" class="fit image">
 *“Those who do not move, do not notice their chains”*

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Under optimized
+tags: leadership relationship
 ---
 <img src="/images/fulls/christopherrobertalba_laziness.jpg" class="fit image" title="Photo credit: Christopher Robert Alba 2010">
 *“If you optimize everything, you will always be unhappy.”* - Donald Knuth

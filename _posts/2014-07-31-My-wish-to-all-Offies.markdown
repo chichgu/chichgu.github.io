@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My wish to all Offies
+tags: work teal dream let-go
 ---
 <img src="/images/fulls/dreambig_BK.jpg" class="fit image" title='Photo credit: BK 2014'>
 *“You must be the change you wish to see in the world”*

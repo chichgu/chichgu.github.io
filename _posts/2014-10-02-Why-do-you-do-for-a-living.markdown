@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why do you do for a living?
+tags: work communication teal purpose social  
 ---
 <img src="/images/fulls/paulstainthorp_jobtitles.jpg" class="fit image" title='Photo credit: Paul Stainthorp 2011'>
 *“We even identify our own selves with the jobs we do: ‘What do you do?’ is the first question we ask each other at parties, as if a job title could express a fundamental truth about our personality.”* — Tom Hodgkinson

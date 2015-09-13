@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learn by heart with your heart
+tags: life intelligence awareness memories
 ---
 <img src="/images/fulls/learn_by_heart.jpg" class="fit image" title="Learn by heart with your heart">
 "Man becomes man only by the intelligence, but he is man only by the heart." - Henri-Frederic Amiel

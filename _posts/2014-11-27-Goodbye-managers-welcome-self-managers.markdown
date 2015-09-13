@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Goodbye managers, welcome self-managers
+tags: work teal agile transition
 ---
 <img src="/images/fulls/goodbye_managers.png" class="fit image" title='Goodbye managers, welcome self-managers'>
 *“Most of what we call management consists of making it difficult for people to get their work done”*

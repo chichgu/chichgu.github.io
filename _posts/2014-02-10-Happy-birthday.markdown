@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Happy Birthday!
+tags: life writing memories
 ---
 <img src="/images/fulls/patrickbivona_birthday.jpg" class="fit image" title="Photo credit: Patrick Bivona 2011">
 *“The Master said:

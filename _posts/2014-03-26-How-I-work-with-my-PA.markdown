@@ -1,6 +1,7 @@
 ---
 layout: post 
 title: How I work with my Personal Assistant
+tags: leadership work relationship
 ---
 <img src="/images/fulls/michaelhavens_assistant.jpg" class="fit image" title='Photo credit: Michael Havens 2015'>
 *“You're no good unless you are a good assistant; and if you are, you're too good to be an assistant.”*

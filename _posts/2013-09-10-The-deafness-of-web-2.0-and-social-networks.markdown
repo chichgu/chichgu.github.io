@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Deafness of web2.0 and social networks
+tags: writing social life 
 ---
 <img src="/images/fulls/katietegtmeyer_shhh.jpg" class="fit image" title='Photo credit: Katie Tegtmeyer 2005'>
 *“Once the writer in every individual comes to life (and that time is not far off), we are in for an age of universal deafness and lack of understanding.”* - Milan Kundera, The Book of Laughter and Forgetting

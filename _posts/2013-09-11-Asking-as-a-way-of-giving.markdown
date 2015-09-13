@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asking as a way of Giving 
-comments: true
+tags: give-and-take life
 ---
 <img src="/images/fulls/chandrashekharleovuppuluri_beggar.jpg" class="fit image" title="Photo credit: Chandrashekhar Leo Vuppuluri 2011">
 *“Let us try to teach generosity and altruism, because we are all born selfish.”* - Richard Dawkins, The Selfish Gene

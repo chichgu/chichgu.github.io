@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why did you do that?
+tags: relationship communication
 ---
 <img src="/images/fulls/jaygooby_question.jpg" class="fit image" title="Photo credit: Jay Gooby 2009">
 *“Others have seen what is and asked why. I have seen what could be and asked why not.”* - Pablo Picasso, Metamorphoses of the Human Form

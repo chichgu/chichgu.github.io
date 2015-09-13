@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teal entrepreneurship
+tags: teal entrepreneurship leadership work
 ---
 <img src="/images/fulls/paradigm_shift.jpg" class="fit image" title='Photo credit: '>
 *“We cannot solve our problems with the same thinking we used when we created them.”*

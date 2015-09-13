@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blogging is the School of Life's homework
+tags: writing life
 ---
 <img src="/images/fulls/johnbolland_homework.jpg" class="fit image" title="Photo credit: John Bolland 2007"> 
 *“The worst thing a kid can say about homework is that it is too hard.”* - Henry Jenkins

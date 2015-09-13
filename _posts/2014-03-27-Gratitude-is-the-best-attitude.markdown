@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gratitude is the best attitude
+tags: give-and-take peace
 ---
 <img src="/images/fulls/gratitude_BK.jpg" class="fit image" title='Photo credit: BK 2014'>
 *"God gave you a gift of 86,400 seconds today.  
