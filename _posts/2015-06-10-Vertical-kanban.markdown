@@ -12,7 +12,7 @@ Kanbans are all about flows, flows of value. Traditionally, the flow goes horizo
 
 This kanban allows me to see :
 
-what’s on my plate, and
++ what’s on my plate, and
 + for any flow of value, what’s the next action
 + These are 2 principles that I learned in my Holacracy training, and which are inspired by [Getting Things Done](http://en.wikipedia.org/wiki/Getting_Things_Done).
 
