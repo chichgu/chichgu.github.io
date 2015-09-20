@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moving my blog to Jekyll to remain free 
+title: Why Jekyll not Medium 
 tags: writing independance social 
 ---
 <img src="/images/fulls/ho_chi_minh_quote.jpg" class="fit image" title='Nothing is more precious than independance and freedom'>
