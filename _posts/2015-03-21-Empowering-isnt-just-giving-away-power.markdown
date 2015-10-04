@@ -4,7 +4,7 @@ title: Empowering isn't just giving away power
 tags: holacracy empowerment transition
 ---
 <img src="/images/fulls/super_powers.jpg" class="fit image" title='Photo Credit: Esparta Palma 2007'>
-When thinking about ways to empower a team, then it’s worth stop for a minute and consider the meaning of the word empower.
+When thinking about ways to empower a team, then it’s worth stopping for a minute and consider the meaning of the word empower.
 
 *em·pow·er /əmˈpou(ə)r/*
 
