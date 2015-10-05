@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Deciding with more consciousness
+featured_image: /images/fulls/scaling_agile_with_holacracy.png
+date: 2015-05-15T00:00:00+00:00
+last_modified_at: 2015-05-15T00:00:00+00:00
 tags: self-management consciousness holacracy
 ---
 <img src="/images/fulls/scaling_agile_with_holacracy.png" class="fit image" title='Scaling Agile with Holacracy'>

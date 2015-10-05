@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Teal entrepreneurship
+featured_image: /images/fulls/paulstainthorp_jobtitles.jpg
+date: 2014-11-26T00:00:00+00:00
+last_modified_at: 2014-11-26T00:00:00+00:00
 tags: teal entrepreneurship leadership work
 ---
 <img src="/images/fulls/paradigm_shift.jpg" class="fit image" title='Photo credit: '>

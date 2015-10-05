@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Blogging is the School of Life's homework
+featured_image: /images/fulls/johnbolland_homework.jpg
+date: 2013-09-25T00:00:00+00:00
+last_modified_at: 2013-09-25T00:00:00+00:00
 tags: writing life
 ---
 <img src="/images/fulls/johnbolland_homework.jpg" class="fit image" title="Photo credit: John Bolland 2007"> 

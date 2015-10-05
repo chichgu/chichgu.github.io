@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Asking as a way of Giving 
+featured_image: /images/fulls/chandrashekharleovuppuluri_beggar.jpg 
+date: 2013-09-11T00:00:00+00:00
+last_modified_at: 2013-09-11T00:00:00+00:00
 tags: give-and-take life
 ---
 <img src="/images/fulls/chandrashekharleovuppuluri_beggar.jpg" class="fit image" title="Photo credit: Chandrashekhar Leo Vuppuluri 2011">

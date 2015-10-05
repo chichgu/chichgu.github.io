@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Empowering isn't just giving away power
+featured_image: /images/fulls/super_powers.jpg
+date: 2015-03-21T00:00:00+00:00
+last_modified_at: 2015-03-21T00:00:00+00:00
 tags: holacracy empowerment transition
 ---
 <img src="/images/fulls/super_powers.jpg" class="fit image" title='Photo Credit: Esparta Palma 2007'>

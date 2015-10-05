@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Goodbye managers, welcome self-managers
+featured_image: /images/fulls/paulstainthorp_jobtitles.jpg
+date: 2014-11-27T00:00:00+00:00
+last_modified_at: 2014-11-27T00:00:00+00:00
 tags: work teal agile transition
 ---
 <img src="/images/fulls/goodbye_managers.png" class="fit image" title='Goodbye managers, welcome self-managers'>

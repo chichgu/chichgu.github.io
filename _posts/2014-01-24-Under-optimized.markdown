@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Under optimized
+featured_image: /images/fulls/christopherrobertalba_laziness.jpg
+date: 2014-01-24T00:00:00+00:00
+last_modified_at: 2014-01-24T00:00:00+00:00
 tags: leadership relationship
 ---
 <img src="/images/fulls/christopherrobertalba_laziness.jpg" class="fit image" title="Photo credit: Christopher Robert Alba 2010">

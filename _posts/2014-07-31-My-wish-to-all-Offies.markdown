@@ -1,6 +1,9 @@
 ---
 layout: post
 title: My wish to all Offies
+featured_image: /images/fulls/dreambig_BK.jpg
+date: 2014-07-31T00:00:00+00:00
+last_modified_at: 2014-07-31T00:00:00+00:00
 tags: work teal dream let-go
 ---
 <img src="/images/fulls/dreambig_BK.jpg" class="fit image" title='Photo credit: BK 2014'>

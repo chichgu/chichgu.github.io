@@ -1,6 +1,9 @@
 ---
 layout: post 
 title: Are women more Agile?
+featured_image: /images/fulls/feminism-is-the-radical-notion-that-women-are-human-beings-42eaf.png
+date: 2014-03-08T00:00:00+00:00
+last_modified_at: 2014-03-08T00:00:00+00:00
 tags: agile leadership gender-equality
 ---
 <img src="/images/fulls/feminism-is-the-radical-notion-that-women-are-human-beings-42eaf.png" class="fit image"/> 

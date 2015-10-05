@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Happy Birthday!
+featured_image: /images/fulls/patrickbivona_birthday.jpg
+date: 2014-02-10T00:00:00+00:00
+last_modified_at: 2014-02-10T00:00:00+00:00
 tags: life writing memories
 ---
 <img src="/images/fulls/patrickbivona_birthday.jpg" class="fit image" title="Photo credit: Patrick Bivona 2011">

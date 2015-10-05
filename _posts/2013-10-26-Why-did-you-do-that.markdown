@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Why did you do that?
+featured_image: /images/fulls/jaygooby_question.jpg
+date: 2013-09-26T00:00:00+00:00
+last_modified_at: 2013-09-26T00:00:00+00:00
 tags: relationship communication
 ---
 <img src="/images/fulls/jaygooby_question.jpg" class="fit image" title="Photo credit: Jay Gooby 2009">

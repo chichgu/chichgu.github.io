@@ -1,6 +1,9 @@
 ---
 layout: post 
 title: How I work with my Personal Assistant
+featured_image: /images/fulls/michaelhavens_assistant.jpg
+date: 2014-03-26T00:00:00+00:00
+last_modified_at: 2014-03-26T00:00:00+00:00
 tags: leadership work relationship
 ---
 <img src="/images/fulls/michaelhavens_assistant.jpg" class="fit image" title='Photo credit: Michael Havens 2015'>

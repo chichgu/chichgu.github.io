@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Why firing someone isn't an option
+featured_image: /images/fulls/keep_calm_youre_fired.png
+date: 2014-09-29T00:00:00+00:00
+last_modified_at: 2014-09-29T00:00:00+00:00
 tags: teal work respect 
 ---
 <img src="/images/fulls/keep_calm_youre_fired.png" class="fit image" title='Keep calm and by the way you are fired'>

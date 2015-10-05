@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Why do you do for a living?
+featured_image: /images/fulls/paulstainthorp_jobtitles.jpg
+date: 2014-10-02T00:00:00+00:00
+last_modified_at: 2014-10-02T00:00:00+00:00
 tags: work communication teal purpose social  
 ---
 <img src="/images/fulls/paulstainthorp_jobtitles.jpg" class="fit image" title='Photo credit: Paul Stainthorp 2011'>

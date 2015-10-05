@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Bad table!
+featured_image: /images/fulls/bad_table.png
+date: 2015-05-25T00:00:00+00:00
+last_modified_at: 2015-05-25T00:00:00+00:00
 tags: education vietnam reinventing-organizations
 ---
 <img src="/images/fulls/bad_table.png" class="fit image" title='Bad table!'>

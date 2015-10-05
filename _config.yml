@@ -1,13 +1,16 @@
 # Site settings
 
-title: Bridge & Bubble - a blog of personal wanders and wonders # Title of your site
+title: Bridge & Bubble # Title of your site
 email: # Your contact email
 
-description: > # this means to ignore newlines until "baseurl:"
- I'm Hoang-Anh. This is my personal blog of wanderful bridges and wonderful bubbles.
+description: I'm Hoang-Anh. This is my personal blog of wanderful bridges and wonderful bubbles.
 keywords: bridge, bubble, wander, wonder, personal blog, hoanganhphan, Hoang-Anh Phan
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bridgeandbubble.com" # the base hostname & protocol for your site
+
+timezone: Asia/Hanoi
+locale: en_uk
+icon:
 
 # Social links.
 # Replace the word 'example' with your username if you want to include the icon in the left sidebar

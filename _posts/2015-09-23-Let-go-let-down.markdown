@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Letting go without letting down
+featured_image: /images/fulls/davidgoehring_letgo.jpg
+date: 2015-09-23T00:00:00+00:00
+last_modified_at: 2015-09-05T00:00:00+00:00
 tags: teal self-management let-go relationship
 ---
 <img src="/images/fulls/davidgoehring_letgo.jpg" class="fit image" title='Photo credit: David Goehring 2009'>

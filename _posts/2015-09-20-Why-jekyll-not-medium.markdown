@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Why Jekyll not Medium 
+featured_image: /images/fulls/ho_chi_minh_quote.jpg
+date: 2015-09-20T00:00:00+00:00
+last_modified_at: 2015-10-05T00:00:00+00:00
 tags: writing independance social 
 ---
 <img src="/images/fulls/ho_chi_minh_quote.jpg" class="fit image" title='Nothing is more precious than independance and freedom'>

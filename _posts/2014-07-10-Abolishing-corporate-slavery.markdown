@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Abolishing corporate slavery
+featured_image: /images/fulls/chain.jpg
+date: 2014-07-10T00:00:00+00:00
+last_modified_at: 2014-07-10T00:00:00+00:00
 tags: agile teal work purpose
 ---
 <img src="/images/fulls/chain.jpg" class="fit image">

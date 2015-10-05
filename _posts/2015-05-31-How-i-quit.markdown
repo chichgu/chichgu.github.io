@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 'How #iquit my job : I was fired to sort out my marriage'
+featured_image: /images/fulls/nobody_hurt_me.jpeg
+date: 2015-05-31T00:00:00+00:00
+last_modified_at: 2015-05-31T00:00:00+00:00
 tags: leanin self-organization peace
 ---
 <img src="/images/fulls/nobody_hurt_me.jpeg" class="fit image" title='Nobody can hurt me without my permission'>

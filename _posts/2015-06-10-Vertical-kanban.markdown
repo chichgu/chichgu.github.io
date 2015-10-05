@@ -1,6 +1,9 @@
 ---
 layout: post
 title: The vertical kanban
+featured_image: /images/fulls/vertical_kanban.png
+date: 2015-06-10T00:00:00+00:00
+last_modified_at: 2015-06-10T00:00:00+00:00
 tags: kanban management holacracy
 ---
 <img src="/images/fulls/vertical_kanban.png" class="fit image" title="A made up example of vertical kanban">

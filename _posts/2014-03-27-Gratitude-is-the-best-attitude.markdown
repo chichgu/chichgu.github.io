@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Gratitude is the best attitude
+featured_image: /images/fulls/michaelhavens_assistant.jpg
+date: 2014-03-27T00:00:00+00:00
+last_modified_at: 2014-03-27T00:00:00+00:00
 tags: give-and-take peace
 ---
 <img src="/images/fulls/gratitude_BK.jpg" class="fit image" title='Photo credit: BK 2014'>

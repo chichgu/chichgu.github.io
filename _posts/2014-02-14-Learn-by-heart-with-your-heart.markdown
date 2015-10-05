@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Learn by heart with your heart
+featured_image: /images/fulls/learn_by_heart.jpg
+date: 2014-02-14T00:00:00+00:00
+last_modified_at: 2014-02-14T00:00:00+00:00
 tags: life intelligence awareness memories
 ---
 <img src="/images/fulls/learn_by_heart.jpg" class="fit image" title="Learn by heart with your heart">

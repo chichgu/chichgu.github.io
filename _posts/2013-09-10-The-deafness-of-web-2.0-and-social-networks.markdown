@@ -1,6 +1,9 @@
 ---
 layout: post
 title: The Deafness of web2.0 and social networks
+featured_image: /images/fulls/katietegtmeyer_shhh.jpg
+date: 2013-09-10T00:00:00+00:00
+last_modified_at: 2013-09-10T00:00:00+00:00
 tags: writing social life 
 ---
 <img src="/images/fulls/katietegtmeyer_shhh.jpg" class="fit image" title='Photo credit: Katie Tegtmeyer 2005'>
