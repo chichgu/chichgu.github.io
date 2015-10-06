@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bridgeandbubble.com" # the base hostname & protocol for your site
 
 timezone: Asia/Hanoi
-locale: en_uk
+locale: en
 icon:
 
 # Social links.
