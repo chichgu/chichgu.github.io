@@ -6,7 +6,7 @@ date: 2016-10-02T00:00:00+00:00
 last_modified_at: 2016-10-02T00:00:00+00:00
 tags: let-go life give-and-take
 ---
-<img src="/images/fulls/harper_doti .jpg" class="fit image" title='Photo credit: http://www.benharper.com/'>
+<img src="/images/fulls/harper_doti.jpg" class="fit image" title='Photo credit: http://www.benharper.com/'>
 *"So much sorrow and pain, still I will not live in vain.
 Like good questions never asked, is wisdom wasted on the past."* - Ben Harper - *Blessed to be a Witness*
 
